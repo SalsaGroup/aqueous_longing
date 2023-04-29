@@ -4,5 +4,13 @@
 
 ## About
 
-## Getting Started
+This is a Flask app that is currently deployed on Linode.
 
+
+
+## Getting Started
+- Clone this Repo
+
+## TODO
+
+We Should find a way to deploy the app after it gets pushed here and passes the tests. 
