@@ -1,2 +1,2 @@
 # aqueous_longing
-Flask app Connected to Elastic Search
+Flask app Connected to Elastic Search.
